@@ -3,7 +3,7 @@
 
 Fullstack Developer | Welcome to my GitHub profile! 💻🤖
 ## 🚀 About me
-I'm a student of Cience Computation at UniCEUB in Brasília - DF and I'm in fifth term at college. I'm very curious, excited to do new things that I haven´t learned yet, I like to start new projects and I'm very creative. I'm a fullstack developer and I want to create my career in Web Development, Back-End Development and maybe Mobile Development. I'm also a Graphic Designer and really like to work with Front-End Development.
+I'm a student of Cience Computation at UniCEUB in Brasília - DF and I'm at fifth term at college. I'm very curious, excited to do new things that I haven´t learned yet, I like to start new projects and I'm very creative. I'm a fullstack developer and I want to create my career in area of Web Development, Back-End Development and maybe Mobile Development. I'm also a Graphic Designer and really like to work with Front-End Development.
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]()
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rhuanlino)
